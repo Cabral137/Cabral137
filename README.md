@@ -20,6 +20,8 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" height="60" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="60" width="60"/>
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="60" width="60" border-radius="12px" alt="SQL logo" />
+  <img src="https://github.com/user-attachments/assets/d96d46f4-9447-4acc-8eb3-9155fc60ae22" height="60" width="60" border-radius="12px" alt="Flutter"/>
+
 </p>
 
 ### Ferramentas
